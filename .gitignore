@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+env/
+
+# Django specific
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
