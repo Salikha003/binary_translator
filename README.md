@@ -76,5 +76,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For additional information or to report issues, you can contact:
 
-- **Email**: solihahusniddinova@gmail.com
+- **Email**: solihahusniddinova27@gmail.com
 - **GitHub**: [Salikha003](https://github.com/Salikha003)
