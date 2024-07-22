@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Binary Translator</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'translator/styles.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h2>Binary Translator</h2>
+        <form method="post">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit">Translate</button>
+        </form>
+        {% if translated_text %}
+        <div class="result">
+            <h3>Translated Text:</h3>
+            <p>{{ translated_text }}</p>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
