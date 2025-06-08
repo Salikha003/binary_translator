@@ -72,9 +72,3 @@ Once the project is up and running, open your browser and navigate to `http://12
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Contact
-
-For additional information or to report issues, you can contact:
-
-- **Email**: solihahusniddinova27@gmail.com
-- **GitHub**: [Salikha003](https://github.com/Salikha003)
